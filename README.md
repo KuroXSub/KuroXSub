@@ -41,9 +41,9 @@
 
 <h3 align="left">📊 Statistik GitHub Saya:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=USERNAME-GITHUB-KAMU&show_icons=true&locale=en&theme=tokyonight" alt="Statistik GitHub" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KuroXSub&show_icons=true&locale=en&theme=tokyonight" alt="Statistik GitHub" />
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=USERNAME-GITHUB-KAMU&layout=compact&langs_count=7&theme=tokyonight" alt="Bahasa yang Paling Sering Digunakan" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KuroXSub&layout=compact&langs_count=7&theme=tokyonight" alt="Bahasa yang Paling Sering Digunakan" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
 | **[Nama Proyek 2]** | Deskripsi singkat tentang proyek dan teknologi yang digunakan. | [Repositori](URL_REPOSITORI_PROYEK_2) \| [Demo](URL_DEMO_LIVE_2) |
 | **[Nama Proyek 3]** | Deskripsi singkat tentang proyek dan teknologi yang digunakan. | [Repositori](URL_REPOSITORI_PROYEK_3) \| [Demo](URL_DEMO_LIVE_3) |
 
-<p align="right"><a href="https://github.com/USERNAME-GITHUB-KAMU?tab=repositories">Lihat semua proyek...</a></p>
+<p align="right"><a href="https://github.com/KuroXSub?tab=repositories">Lihat semua proyek...</a></p>
 
 ---
 
