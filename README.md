@@ -1,6 +1,12 @@
 <h1 align="center">Hello 👋, I'm Kuro</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
+<div align="center">
+  <img src="https://img.shields.io/github/stars/KuroXSub?style=social" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kuroxsub.kuroxsub" />
+  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />
+</div>
+
 ---
 
 ## 🚀 About Me
@@ -9,29 +15,35 @@
 - 🌱 Learning **Cloud Computing** and **Cyber Security**
 - 👯 Looking to collaborate on **Web** and **Security** projects
 - 💬 Ask me about **Web Development**
-- ⚡ Fun fact: I'm a night owl coder
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-| **Category** | **Technologies** |
-|--------------|------------------|
-| **Languages** | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a> <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a> |
-| **Frontend** | <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a> <a href="https://laravel-livewire.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/51960834?s=200&v=4" width="40" height="40"/></a> |
-| **Backend** | <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a> <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/></a> <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/></a> |
-| **Design** | <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a> |
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo"  />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel logo"  />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo"  />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo"  />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask logo"  />
+</div>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KuroXSub&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KuroXSub&theme=tokyonight" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KuroXSub&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
-</p>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kuroxsub&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=20&date_format=j%20M%5B%20Y%5D&order=3" height="160" alt="streak graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuroxsub&radius=16&theme=redical&area=true&order=5&hide_border=false&hide_title=false&custom_title=Kuro%20Contribution" height="300" alt="activity-graph graph"  />
+</div>
 
 ---
 
