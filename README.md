@@ -51,9 +51,9 @@
 
 | Project Name       | Description                          | Link |
 |--------------------|--------------------------------------|------|
-| **Backoffice Zynergy** | Admin panel for Zynergy app built with Laravel & Filament | [Repo](https://github.com/KuroXSub/filament-zynergy) |
-| **E-Voting BEM** | BEM election system with Laravel & Filament | [Repo](https://github.com/KuroXSub/e-voting-bem-sa) |
-| **E-Book Fasum** | Village public facilities booking system | [Repo](https://github.com/KuroXSub/booking-fasum) |
+| **Domain Checker** | A website for searching for available domain names | [Repo](https://github.com/KuroXSub/domain-checker) |
+| **Image PDF Extension** | A website for downloading images from web pages as PDF files | [Repo](https://github.com/KuroXSub/my-image-pdf-extension) |
+| **Password Generator** | A website for generating passwords based on custom rules | [Repo](https://github.com/KuroXSub/secure-pass-gen) |
 
 <p align="right"><a href="https://github.com/KuroXSub?tab=repositories">View all projects →</a></p>
 
